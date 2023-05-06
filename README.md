@@ -11,6 +11,6 @@ Diagrama conceptuală:
 - PL/SQL Project
 De asemenea, proiectul prezintă o bază de date destinată gestiunii unei companii aeriere. Este realizat în limbajul de programare PL/SQL.
 
-## Diagrama conceptuală:
+Diagrama conceptuală:
 
 ![image](https://user-images.githubusercontent.com/95356241/236639424-0f20f455-559d-4d68-9783-5a95e5bd1f7f.png)
