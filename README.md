@@ -1,6 +1,7 @@
 # Airline-Database-Projects
 
 - SQL Project
+
 Proiectul a fost realizat conform cerințelor, în limbajul SQL. Acesta prezintă o bază de date destinată gestiunii unei companii aeriere.
 
 Diagrama conceptuală:
@@ -9,6 +10,7 @@ Diagrama conceptuală:
 
 
 - PL/SQL Project
+
 De asemenea, proiectul prezintă o bază de date destinată gestiunii unei companii aeriere. Este realizat în limbajul de programare PL/SQL.
 
 Diagrama conceptuală:
